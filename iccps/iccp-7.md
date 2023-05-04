@@ -1,9 +1,3 @@
-ICCP-7 Weighted Voting for Epoch Elections
-May 3rd 2023
-Updated: May 3rd, 2023
-Author: Scoriox
-
-Simple Summary
 ---
 iccp: 7
 title: Weighted Voting for Epoch Elections
